@@ -11,7 +11,7 @@ get involved in its rapid growth by learning from community and adding my own co
 Having just completed an Applied Data Science program, I am now looking for opportunities 
 to gain valuable experience and continue my growth in the world of data. 
 
-- 📫 Email me at: patrickp96@gmail.com
+- 📫 Email me at: patrickp96[at]gmail.com
 - ⚡ Fun fact: Besides being a soccer stats nerd, I am also an avid salsa dancer! 
 
 
