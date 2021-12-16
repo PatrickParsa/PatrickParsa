@@ -12,7 +12,7 @@ Having just completed an Applied Data Science program, I am now looking for oppo
 to gain valuable experience and continue my growth in the world of data. 
 
 - 📫 How to reach me: Email me at: patrickp96@gmail.com
-- ⚡ Fun fact: Besides being a soccer nerd, I am also a salsa dancer and attend weekly events! 
+- ⚡ Fun fact: Besides being a soccer stats nerd, I am also an avid salsa dancer! 
 
 
 <!---
