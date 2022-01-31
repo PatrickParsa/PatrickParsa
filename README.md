@@ -5,7 +5,7 @@
 </p>
 
 ---
-✨ I'm a recent graduate in statistics and economics passionate about leveraging analytical tools to draw insights from data. In particular, I love sports analytics and I am very excited to
+✨ I'm a recent graduate in statistics and economics passionate about leveraging analytical tools to draw insights from data. In particular, I love soccer analytics and I am very excited to
 get involved in its rapid growth by learning from community and adding my own contributions! 
 
 Having just completed an Applied Data Science program, I am now looking for opportunities 
