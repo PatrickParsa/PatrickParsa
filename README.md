@@ -14,9 +14,9 @@ to gain valuable experience and continue my growth in the world of data.
 - 📫 Email me at: patrickp96[at]gmail.com
 - ⚡ Fun fact: Besides being a soccer stats nerd, I am also an avid salsa dancer! 
 
-New Projects: 
+Latest Project: 
 
-01/31/2022 [FIFA 19 Analysis](https://github.com/PatrickParsa/FIFA) Involving EDA and K-Means clustering
+04/2022 [Car Price Prediction](https://github.com/PatrickParsa/carpricepred)
 
 <!---
 PatrickParsa/PatrickParsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
