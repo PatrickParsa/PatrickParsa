@@ -1,6 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm Patrick</h3>
 <p align="center">
+  <a href="https://patrickp96.wordpress.com">Website</a>
   <a href="https://www.linkedin.com/in/patrick-parsa/">LinkedIn</a>
 </p>
 
@@ -17,6 +18,8 @@ to gain valuable experience and continue my growth in the world of data.
 Latest Project: 
 
 04/2022 [Car Price Prediction](https://github.com/PatrickParsa/carpricepred)
+
+[Click Here](https://patrickp96.wordpress.com) to visit my website to see more of my work! 
 
 <!---
 PatrickParsa/PatrickParsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
