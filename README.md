@@ -17,7 +17,7 @@ to gain valuable experience and continue my growth in the world of data.
 
 Latest Project: 
 
-04/2022 [Car Price Prediction](https://github.com/PatrickParsa/carpricepred)
+04/2022 [Car Price Prediction](https://github.com/PatrickParsa/used-car-project)
 
 [Click Here](https://patrickp96.wordpress.com) to visit my website to see more of my work! 
 
